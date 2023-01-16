@@ -1,5 +1,8 @@
 ### NYC Bike Share Analysis
-UFO Sightings with JavaScript
+NYC Bike Share:
+
+Link to dashboard:https://public.tableau.com/app/profile/sausana.abraham/viz/BikeShareChallenge_16738372165510/BikeShareChallenge?publish=yes
+
 
 # Overview:
 The purpose of this project is to use Tableau Public and Pandas and a set of bikeshare data from 2019 in New York City to convince investors that a bike-sharing program in Des Moines is a good business proposal. In this analysis, we use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, we created a set of visualizations to:
